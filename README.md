@@ -74,7 +74,6 @@ An automated ETL pipeline was developed using **Apache Airflow**.
 - Automate scheduling workflows
 - Load processed data into the warehouse
 
----
 
 ## 3. Data Warehouse Development
 Processed data was loaded into **Google BigQuery** to support scalable analytics and dashboard performance.
@@ -106,7 +105,6 @@ Using **Python** and **Jupyter Notebook**, operational data was analyzed to iden
 ### KPI Recommendation
 Increase **Volume Fill Rate by 3.4%** to reduce approximately **3.1% revenue leakage** based on regression analysis.
 
----
 
 ## Problem 2: High Delayed Delivery Rate
 
@@ -118,7 +116,7 @@ Increase **Volume Fill Rate by 3.4%** to reduce approximately **3.1% revenue lea
 - Reduce delayed delivery rate to **below 18%**
 - Reduce average delay days to **under 1 day**
 
----
+
 
 # Business Value
 
