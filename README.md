@@ -128,7 +128,7 @@ This project demonstrates how Business Intelligence systems can:
 - Optimize supply chain operations
 - Establish measurable KPIs for continuous improvement
 
-# ⚙️ Tools & Technologies
+# Tools & Technologies
 
 | Category | Tools |
 |---|---|
