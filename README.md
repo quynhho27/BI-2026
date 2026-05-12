@@ -151,3 +151,8 @@ This project demonstrates how Business Intelligence systems can:
 - Proposed KPI targets and strategic recommendations
 - Demonstrated practical BI and analytics workflow for FMCG operations
 
+> **Note**
+> 
+> This project was developed as a final course project in collaboration with three teammates
+>
+> This repository is a fork of the original group repository, in which I actively contributed to the core implementation and analysis
