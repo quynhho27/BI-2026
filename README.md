@@ -103,7 +103,7 @@ Using **Python** and **Jupyter Notebook**, operational data was analyzed to iden
 - Main contributor: low **Line Fill Rate (LIFR)**
 
 ### KPI Recommendation
-Increase **Volume Fill Rate by 3.4%** to reduce approximately **3.1% revenue leakage** based on regression analysis.
+Increase **Volume Fill Rate by 3.4%** to reduce approximately **3.1% revenue leakage** based on regression analysis (applied Linear Regression)
 
 
 ## Problem 2: High Delayed Delivery Rate
